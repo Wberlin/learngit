@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="view-1.0.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.djcps.library/view/1.0.8/jars/libs/zxing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.djcps.library/view/1.0.8/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.djcps.library/view/1.0.8/jars/libs/universal-image-loader-1.9.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.djcps.library/view/1.0.8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.djcps.library/view/1.0.8/e8414b08cbdbc4b3033afd29374539c5891dadeb/view-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
